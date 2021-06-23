@@ -3,7 +3,7 @@
 **My works**
 
 Name|Platform|Language
----|---|---
+:-:|:-:|:-:
 [HostsToolforMac](https://github.com/ZzzM/HostsToolforMac)|macOS|<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 [LunarCalendar](https://github.com/ZzzM/LunarCalendar)|macOS|<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 [Mini Calendar](https://github.com/ZzzM/MiniCalendar)|iOS|<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
